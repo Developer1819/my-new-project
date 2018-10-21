@@ -1,8 +1,3 @@
 <?php
 
-echo "Hello world!";
-echo "Hello world!";
-echo "Hello world!";
-
-echo "Hello!";
-echo "Hello 2!";
+echo "Lorem ipsum dolor sit amet.";
