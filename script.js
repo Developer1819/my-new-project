@@ -9,3 +9,9 @@ alert('Hello 3');
 const sum = function (a, b) {
     return a + b;
 }
+
+const avg = function(arr) {
+    let sum = 0
+
+    return sum / arr.length
+}
