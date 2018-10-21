@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo quidem labor
 
 ## Раздел 2
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta expedita reiciendis non vero, earum, vitae quisquam voluptates perspiciatis ad sequi. Perspiciatis maiores beatae aliquam eius!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta expedita reiciendis non vero, earum, vitae quisquam voluptates perspiciatis ad sequi. Perspiciatis maiores beatae aliquam eius! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem ducimus, optio dicta ipsam quibusdam, sit officiis. Facere eum placeat quos veniam minima. Eveniet molestiae error ipsa tempore vero illum commodi?
 
 ## Раздел 3
 
